@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90mm"
+   height="50mm"
+   viewBox="0 0 90 50"
+   id="svg3343"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="business_card_green_back1.svg"
+   inkscape:export-filename="D:\github\Learning_D3Geo\business_card_green_back.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.522963"
+     inkscape:cx="193.9807"
+     inkscape:cy="98.551554"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient4484"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.98823529;"
+         offset="0"
+         id="stop4486" />
+      <stop
+         style="stop-color:#6b8e35;stop-opacity:0;"
+         offset="1"
+         id="stop4488" />
+    </linearGradient>
+    <font
+       horiz-adv-x="1024"
+       id="font3520"
+       inkscape:label="font 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
+      <font-face
+         units-per-em="1024"
+         id="font-face3522"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph3524" />
+      <glyph
+         glyph-name="glyph 1"
+         id="glyph3532" />
+      <glyph
+         glyph-name="glyph 2"
+         id="glyph3534" />
+    </font>
+    <font
+       horiz-adv-x="1024"
+       id="font3526"
+       inkscape:label="font 2"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
+      <font-face
+         units-per-em="1024"
+         id="font-face3528"
+         font-family="SVGFont 2" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph3530" />
+    </font>
+    <font
+       horiz-adv-x="1024"
+       id="font3536"
+       inkscape:label="font 3"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
+      <font-face
+         units-per-em="1024"
+         id="font-face3538"
+         font-family="SVGFont 3" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph3540" />
+    </font>
+  </defs>
+  <metadata
+     id="metadata3347">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="-0.031184178"
+       x="0.031181104"
+       height="50"
+       width="90"
+       id="rect3350"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.06236221;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5631"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Arctik 3';-inkscape-font-specification:'Arctik 3, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26666667,0,0,0.26666667,0,-2)"><flowRegion
+         id="flowRegion5633"><rect
+           id="rect5635"
+           width="188.44844"
+           height="96.522369"
+           x="89.956223"
+           y="61.327831"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arctik 3';-inkscape-font-specification:'Arctik 3, '" /></flowRegion><flowPara
+         id="flowPara5637" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5639"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66666651px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e7c01;fill-opacity:0.8;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(4.2184604,4.3286551)"><flowRegion
+         id="flowRegion5641"><rect
+           id="rect5643"
+           width="43.424114"
+           height="5.9080729"
+           x="19.113522"
+           y="17.319069"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66666651px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#2e7c01;fill-opacity:0.8" /></flowRegion><flowPara
+         id="flowPara5649">inspire  on demand</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6314"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion6316"><rect
+           id="rect6318"
+           width="254.76653"
+           height="283.00098"
+           x="23.638132"
+           y="-56.5895" /></flowRegion><flowPara
+         id="flowPara6320" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6346"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion6348"><rect
+           id="rect6350"
+           width="199.61089"
+           height="257.39297"
+           x="86.016533"
+           y="-31.638138" /></flowRegion><flowPara
+         id="flowPara6352" /></flowRoot>  </g>
+</svg>

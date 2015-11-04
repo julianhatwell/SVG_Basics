@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90mm"
+   height="50mm"
+   viewBox="0 0 90 50"
+   id="svg3343"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="business_card_green1.svg"
+   inkscape:export-filename="D:\github\Learning_D3Geo\business_card_green.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.522963"
+     inkscape:cx="191.58531"
+     inkscape:cy="96.63323"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient4484"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ff932a;stop-opacity:1;"
+         offset="0"
+         id="stop4486" />
+      <stop
+         style="stop-color:#6b8e35;stop-opacity:0;"
+         offset="1"
+         id="stop4488" />
+    </linearGradient>
+    <font
+       horiz-adv-x="1024"
+       id="font3520"
+       inkscape:label="font 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
+      <font-face
+         units-per-em="1024"
+         id="font-face3522"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph3524" />
+      <glyph
+         glyph-name="glyph 1"
+         id="glyph3532" />
+      <glyph
+         glyph-name="glyph 2"
+         id="glyph3534" />
+    </font>
+    <font
+       horiz-adv-x="1024"
+       id="font3526"
+       inkscape:label="font 2"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
+      <font-face
+         units-per-em="1024"
+         id="font-face3528"
+         font-family="SVGFont 2" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph3530" />
+    </font>
+    <font
+       horiz-adv-x="1024"
+       id="font3536"
+       inkscape:label="font 3"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
+      <font-face
+         units-per-em="1024"
+         id="font-face3538"
+         font-family="SVGFont 3" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph3540" />
+    </font>
+  </defs>
+  <metadata
+     id="metadata3347">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="7.4174687e-007"
+       x="-4.4408921e-016"
+       height="49.999996"
+       width="90"
+       id="rect3350"
+       style="fill:#2e7c01;fill-opacity:0.80000001;fill-rule:evenodd;stroke:none;stroke-width:0.25138053px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       ry="0" />
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3342"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="matrix(0.28657189,0,0,0.27924017,24.374931,8.0364484)"><flowRegion
+       id="flowRegion3344"><rect
+         id="rect3346"
+         width="116.66666"
+         height="28.33333"
+         x="14.166667"
+         y="6.6666722"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;"
+         ry="0" /></flowRegion><flowPara
+       id="flowPara3348">Julian Hatwell</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3342-0"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="matrix(0.28657189,0,0,0.27924017,24.387085,13.452537)"><flowRegion
+       id="flowRegion3344-3"><rect
+         id="rect3346-1"
+         width="116.66666"
+         height="28.33333"
+         x="14.166667"
+         y="6.6666722"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;"
+         ry="0" /></flowRegion><flowPara
+       id="flowPara3348-5">senior consultant</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3342-0-8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="matrix(0.28657189,0,0,0.27924017,24.366814,23.94306)"><flowRegion
+       id="flowRegion3344-3-1"><rect
+         id="rect3346-1-8"
+         width="116.66666"
+         height="28.33333"
+         x="14.166667"
+         y="6.6666722"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;"
+         ry="0" /></flowRegion><flowPara
+       id="flowPara3348-5-8">+65 9144 6360</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3342-0-8-0"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.33333325px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="matrix(1.0746446,0,0,1.0471506,34.848603,32.702172)"><flowRegion
+       id="flowRegion3344-3-1-0"><rect
+         id="rect3346-1-8-5"
+         width="31.111109"
+         height="7.5555549"
+         x="-6.1642795"
+         y="-2.9021142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.33333325px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;"
+         ry="0" /></flowRegion><flowPara
+       id="flowPara3348-5-8-1">@julianhatwell</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3342-0-8-0-2-4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="matrix(0.28657189,0,0,0.27924017,24.594921,39.434076)"><flowRegion
+       id="flowRegion3344-3-1-0-6-5"><rect
+         id="rect3346-1-8-5-0-8"
+         width="160.83331"
+         height="30.83333"
+         x="-8.561265"
+         y="-3.6531191"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;"
+         ry="0" /></flowRegion><flowPara
+       id="flowPara3348-5-8-1-6-9">www.inspireondemand.com</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3342-0-8-0-2-4-8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(0.28657189,0,0,0.27924017,21.786424,35.169803)"><flowRegion
+       id="flowRegion3344-3-1-0-6-5-7"><rect
+         id="rect3346-1-8-5-0-8-8"
+         width="180.87941"
+         height="14.906285"
+         x="-8.561265"
+         y="-3.6531191"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+         ry="0" /></flowRegion><flowPara
+       id="flowPara3348-5-8-1-6-9-9">julian@inspireondemand.com</flowPara></flowRoot></svg>
